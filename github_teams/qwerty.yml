@@ -1,0 +1,7 @@
+---
+permission: push
+members:
+- john.doe
+repos:
+- qwerty
+
