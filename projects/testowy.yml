@@ -1,5 +1,6 @@
 display_name: Testowy
 github_teams:
   - qwerty
-members: []
+members:
+  - piotr.zyla
 project_email: testowy@mail.com
