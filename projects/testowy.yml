@@ -2,9 +2,10 @@ display_name: Testowy
 github_teams:
   - qwerty
 members:
+  - anna.nowak
+  - cinek
   - marcin
   - marcin.brzezinski
-  - anna.nowak
   - piotr.zyla
   - scinek
 project_email: testowy@mail.com
